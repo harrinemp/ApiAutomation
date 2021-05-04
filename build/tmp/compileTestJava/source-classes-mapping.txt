@@ -1,0 +1,8 @@
+com/restassured/PutPatchTest.java
+ com.restassured.PutPatchTest
+com/restassured/PostTest.java
+ com.restassured.PostTest
+com/restassured/DeleteTest.java
+ com.restassured.DeleteTest
+com/restassured/GetTest.java
+ com.restassured.GetTest

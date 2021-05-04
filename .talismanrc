@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: src/test/java/com/restassured/PostTest.java
+  checksum: b408f4971c9eefccc19542b017ae781dfb9070d438d8265bf828b596b6bbd035
+- filename: .idea/uiDesigner.xml
+  checksum: 18be3885953534e90388d323127b1e8a412d666d9fe4c4b2f315c589933b5f67
